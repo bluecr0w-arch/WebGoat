@@ -1,0 +1,9 @@
+# Fake AWS Access Key
+AWS_ACCESS_KEY_ID=AKIA1234567890ABCDEF
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+
+# Fake GitHub Token
+GITHUB_TOKEN=ghp_abcdefghijklmnopqrstuvwxyz123456
+
+# Fake Stripe Key
+STRIPE_KEY=sk_test_51H8aExampleSecretKey123456789
